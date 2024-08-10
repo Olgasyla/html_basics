@@ -1,0 +1,14 @@
+body {
+  /*background-color: rgb(255 255 204);*/
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+header, footer {
+  background-color: lavender;
+  padding: 10 px 20px;
+  text-align: center;
+
+}
